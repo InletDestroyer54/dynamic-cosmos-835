@@ -1,0 +1,13 @@
+{
+  "name": "sample-app",
+  "version": "2.12.3",
+  "log_level": "info",
+  "cache": {
+    "enabled": true,
+    "ttl_seconds": 900
+  },
+  "output": {
+    "dir": "out",
+    "format": "text"
+  }
+}
